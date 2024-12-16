@@ -1,0 +1,12 @@
+# Ignore following directories:
+.vscode/
+.github/
+build/
+
+
+# Ignore __pycache__ files
+__pycache__/
+
+# Optionally, ignore other common files like Python bytecode and log files
+*.pyc
+*.log
